@@ -1,4 +1,4 @@
-# Salut, moi c'est [Kusa] ! 👋
+# Salut, moi c'est Kusa ! 👋
 
 ### 🛠 Développeur Full-Stack | Spécialiste FiveM | Passionné de Cybersécurité & Admin Sys
 
@@ -29,8 +29,8 @@ Je jongle entre la création d'expériences immersives sur **FiveM**, le dévelo
 
 ## 📊 Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[kusa0001]&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[kusa0001]&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusa0001&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kusa0001&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
